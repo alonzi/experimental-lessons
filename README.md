@@ -11,10 +11,10 @@
     
     
     
-* [Rules for normal data](https://en.wikipedia.org/wiki/Standard_deviation#Rules_for_normally_distributed_data)
+* [Rules for normal data - left](https://en.wikipedia.org/wiki/Standard_deviation#Rules_for_normally_distributed_data)
+* [p-value - right](https://en.wikipedia.org/wiki/P-value#Definition_and_interpretation)
 
-![](https://github.com/alonzi/experimental-lessons/blob/master/Standard_deviation_diagram.svg.png)
+![](https://github.com/alonzi/experimental-lessons/blob/master/Standard_deviation_diagram.svg.png) ![](https://github.com/alonzi/experimental-lessons/blob/master/400px-P-value_in_statistical_significance_testing.svg.png)
 
-* [p-value](https://en.wikipedia.org/wiki/P-value#Definition_and_interpretation)
 
-![](https://github.com/alonzi/experimental-lessons/blob/master/400px-P-value_in_statistical_significance_testing.svg.png)
+

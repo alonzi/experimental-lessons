@@ -18,6 +18,8 @@
 
 ![](https://github.com/alonzi/experimental-lessons/blob/master/Standard_deviation_diagram.svg.png) ![](https://github.com/alonzi/experimental-lessons/blob/master/400px-P-value_in_statistical_significance_testing.svg.png)
 
+* [Types of Errors](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors#Table_of_error_types)
+![](https://github.com/alonzi/experimental-lessons/blob/master/Screen%20Shot%202018-11-13%20at%209.22.26%20AM.png)
 ## Systematic Error
 * [Dewey Defeats Truman](https://en.wikipedia.org/wiki/Dewey_Defeats_Truman)
 

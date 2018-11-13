@@ -4,9 +4,9 @@
   
     ![](https://github.com/alonzi/experimental-lessons/blob/master/tau-mass3-300x298.jpg) ![](https://github.com/alonzi/experimental-lessons/blob/master/neutron-lifetime-300x244.jpg)
     
-  * **Example 1** 
+  * **Example 1 - left** 
     * The first measurement has 20 MeV as error for the center value, which means expected true value can be located between 1806-2*20=1766 MeV/c^2 and 1806+2*20=1846 MeV/c^2 in 95% of time. 
-  * **Example 2** 
+  * **Example 2 - right** 
     * The difference between 1110 and 885.6 is around 225, which is 7 times larger than 30, the error of 1110.
     
     

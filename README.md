@@ -23,3 +23,5 @@
 
 ![](https://github.com/alonzi/experimental-lessons/blob/master/Deweytruman12.jpg)
 
+* [2016 US Election](http://www.pewresearch.org/fact-tank/2016/11/09/why-2016-election-polls-missed-their-mark/)
+  * One likely culprit is what pollsters refer to as nonresponse bias...certain kinds of people systematically do not respond to surveys.

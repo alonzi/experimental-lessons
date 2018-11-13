@@ -1,6 +1,7 @@
 # experimental-lessons
 
-* [History of measurement](https://www.quantumdiaries.org/2009/06/08/history-of-measurement/)
+## Experimental Example
+* [From "History of measurement"](https://www.quantumdiaries.org/2009/06/08/history-of-measurement/)
   
     ![](https://github.com/alonzi/experimental-lessons/blob/master/tau-mass3-300x298.jpg) ![](https://github.com/alonzi/experimental-lessons/blob/master/neutron-lifetime-300x244.jpg)
     
@@ -11,10 +12,14 @@
     
     
     
+## Statistical Interpretation
 * [Rules for normal data - left](https://en.wikipedia.org/wiki/Standard_deviation#Rules_for_normally_distributed_data)
 * [p-value - right](https://en.wikipedia.org/wiki/P-value#Definition_and_interpretation)
 
 ![](https://github.com/alonzi/experimental-lessons/blob/master/Standard_deviation_diagram.svg.png) ![](https://github.com/alonzi/experimental-lessons/blob/master/400px-P-value_in_statistical_significance_testing.svg.png)
 
+## Systematic Error
+* [Dewey Defeats Truman](https://en.wikipedia.org/wiki/Dewey_Defeats_Truman)
 
+![](https://github.com/alonzi/experimental-lessons/blob/master/Deweytruman12.jpg)
 

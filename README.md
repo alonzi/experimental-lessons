@@ -6,3 +6,4 @@
   
 * [Standard Deviation](https://en.wikipedia.org/wiki/Standard_deviation)
 * [Rules for normal data](https://en.wikipedia.org/wiki/Standard_deviation#Rules_for_normally_distributed_data)
+* [p-value](https://en.wikipedia.org/wiki/P-value#Definition_and_interpretation)

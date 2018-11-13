@@ -25,4 +25,4 @@
 
 * [2016 US Election](http://www.pewresearch.org/fact-tank/2016/11/09/why-2016-election-polls-missed-their-mark/)
   * One likely culprit is what pollsters refer to as nonresponse bias...certain kinds of people systematically do not respond to surveys.
-![](https://github.com/alonzi/experimental-lessons/blob/master/Screen%20Shot%202018-11-13%20at%209.18.32%20AM.png) ![https://www.270towin.com/maps/2016-actual-electoral-map](https://github.com/alonzi/experimental-lessons/blob/master/Screen%20Shot%202018-11-13%20at%209.18.55%20AM.png)
+![https://projects.fivethirtyeight.com/2016-election-forecast/](https://github.com/alonzi/experimental-lessons/blob/master/Screen%20Shot%202018-11-13%20at%209.18.32%20AM.png) ![https://www.270towin.com/maps/2016-actual-electoral-map](https://github.com/alonzi/experimental-lessons/blob/master/Screen%20Shot%202018-11-13%20at%209.18.55%20AM.png)

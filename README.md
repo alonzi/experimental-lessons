@@ -20,6 +20,12 @@
 
 * [Types of Errors](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors#Table_of_error_types)
 ![](https://github.com/alonzi/experimental-lessons/blob/master/Screen%20Shot%202018-11-13%20at%209.22.26%20AM.png)
+
+* [Observational Error](https://en.wikipedia.org/wiki/Observational_error)
+  * value = measurement +/- statistical error +/- systematic error
+
+
+
 ## Systematic Error
 * [Dewey Defeats Truman](https://en.wikipedia.org/wiki/Dewey_Defeats_Truman)
 
